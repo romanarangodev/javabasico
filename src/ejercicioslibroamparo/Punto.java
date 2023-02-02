@@ -21,6 +21,8 @@ public class Punto {
     
     private int atributo2;
     
+    private String roman;
+    
     //Metodos
     //METODOS CONSTRUCTORES
     /**
